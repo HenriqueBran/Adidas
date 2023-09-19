@@ -1,0 +1,211 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+.entrar {
+    text-align: end;
+    font-size: 18px; 
+    margin-left: +1255px;  
+}
+
+
+.logo {
+   width: 70px;
+   height: 70px;
+   margin-left: -1300px;
+}
+
+
+
+
+
+/***************************/
+
+/*CSS PÁGINA DO USUÁRIO*/
+.logo-pagina-login {
+    width: 250px;
+}
+
+.input-login-usuario {
+    padding: 5px 50px;
+    
+}
+.h1-login-usuario {
+    font-size: 40px;
+}
+.button-login-usuario {
+    background-color: #000000;
+    color: white;
+    padding: 5px 70px;
+}
+.button-login-criar-conta {
+    background-color: #000000;
+    padding: 5px 58px;
+    
+}
+.botao-criar-conta2 {
+    background-color: #000000;
+    color: #000000;
+    text-decoration: none;
+    padding: 5px 30px;
+}
+.logo-conta-criada-com-sucesso {
+    width: 120px;
+}
+.botao-voltar-ao-menu-inicial {
+    background-color: #000000;
+    color: white;
+    padding: 5px 30px;
+}
+
+
+/*****************************/
+
+
+
+
+
+nav li {
+    
+    display: inline;
+    margin:0 0 0 15px;
+ 
+}
+
+nav {
+    text-transform:uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: +875px;
+}
+.decoracao-menu-nav {
+    text-decoration: none;
+    color: #000000;
+}
+.hover-nav :hover{
+    color:rgb(136, 130, 130);
+    text-decoration: none;
+    
+}
+
+.container1 {
+    color: white;
+    background-color: #000000;
+    display: flex;
+}
+.ajuste-img-banner-propaganda {
+    width: 600px;
+    height: 600px;
+    margin-left: 200px;
+}
+.titulo-apresentacao {
+    font-size: 55px;
+    text-align: left;
+    margin-left: +550px;
+    
+}
+.sob-titulo-apresentacao {
+    font-size: 20px;
+    text-align: left;
+    margin-left: -2px;
+}
+.modelos {
+    width: 1220px;
+    height: 600px;
+   
+}
+
+
+.produtos-femininos li {
+    display:inline-block;
+    text-align: center;
+    width: 13%;
+    font-size: 18px;
+    text-align: left; 
+    
+      
+}
+.produtos-masculinos li {
+    display:inline-block;
+    text-align: center;
+    width: 13%;
+    font-size: 18px;
+    text-align: left; 
+    
+      
+}
+.produtos-infantil li {
+    display:inline-block;
+    text-align: center;
+    width: 13%;
+    font-size: 18px;
+    text-align: left; 
+    
+}
+.botao {
+    font-size: 25px;
+    background-color: white;
+    margin-left: +105px;
+    
+
+}
+form label, form p {
+    display: block;
+    font-size: 20px;
+    margin: 10px 0; /*para dar espaço entre as opções do formulario*/
+   
+}
+
+.input-padrao {
+    margin: 0 0 10px;
+    padding: 5px 10px; /*Para alterar o tamanho da caixa de texto*/
+    width: 35%;
+    
+}
+.button {
+    background-color: #000000;
+    color: white;
+    font-size:25px;
+    padding: 2px 20px;
+}
+.botao-criar-conta {
+    background-color: #000000;
+    color: white;
+    font-size: 18px;
+}
+.footer {
+    flex-shrink: 0;
+    background-color: black;
+    padding: 40px 0;
+    
+    
+}
+.politica-de-privacidade {
+    color: white;
+    text-align: left;
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: +550px;
+}
+.termos-de-condicoes {
+    color: white;
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: +550px;
+    
+}
+.copyright {
+    color: white;
+    font-size: 20px;
+    margin: 20px 0 0;
+    margin-left: -730px;
+}
+.footer {
+    position: absolute;
+}
+    
+

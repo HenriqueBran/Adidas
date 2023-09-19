@@ -1,0 +1,99 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+.logo {
+   width: 70px;
+   height: 70px;
+   margin-left: -1300px;
+}
+
+nav li {
+    
+    display: inline;
+    margin:0 0 0 15px;
+ 
+}
+
+nav {
+    text-transform:uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: +875px;
+}
+.decoracao-menu-nav {
+    text-decoration: none;
+    color: #000000;
+}
+.hover-nav :hover{
+    color:rgb(136, 130, 130);
+    text-decoration: none;
+    
+}
+
+.container1 {
+    color: white;
+    background-color: #000000;
+    display: flex;
+}
+
+.modelos {
+    width: 1220px;
+    height: 600px;
+   
+}
+
+
+.produtos-femininos li {
+    display:inline-block;
+    text-align: center;
+    width: 13%;
+    font-size: 18px;
+    text-align: left; 
+    
+      
+}
+.botao {
+    font-size: 25px;
+    background-color: white;
+    margin-left: +105px;
+    
+
+}
+
+.footer {
+    flex-shrink: 0;
+    background-color: black;
+    position: absolute;
+    bottom:0px;
+    width: 100px;
+    padding: 40px 0;
+    
+    
+}
+.politica-de-privacidade {
+    color: white;
+    text-align: left;
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: +550px;
+}
+.termos-de-condicoes {
+    color: white;
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: +550px;
+    
+}
+.copyright {
+    color: white;
+    font-size: 20px;
+    margin: 20px 0 0;
+    margin-left: -730px;
+}
+
+
