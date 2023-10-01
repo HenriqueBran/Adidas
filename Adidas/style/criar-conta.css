@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.conteudo {
+    flex: 1 0 auto;
+}
+.logo-pagina-login {
+    width: 250px;
+    margin-left: +1150px
+}
+.form-nome-CPF {
+    justify-content: space-evenly;
+}
+.form-criar-conta {
+    margin: 0 0 10px;
+    padding: 5px 10px; /*Para alterar o tamanho da caixa de texto*/
+    width: 35%;
+    display: inline-block;
+    align-items: center;
+ 
+}
+.botao-criar-conta2 {
+    background-color: #000000;
+    color: #000000;
+    text-decoration: none;
+    padding: 5px 30px;
+}
+.botao-criar-conta2:hover{
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.rodape {
+    flex-shrink: 0;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+.politica-de-privacidade {
+    width: 40px; 
+    height: 40px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    display: inline-flex;
+    margin-left: +850px;
+    
+}
+.termos-de-condicoes {
+    color: white;
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: +1098px;
+    
+}
+.copyright {
+    color: white;
+    font-size: 20px;
+    margin: 20px 0 0;
+    margin-left: -750px;
+}
+    

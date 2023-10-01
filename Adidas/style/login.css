@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+    
+}
+
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.cabecalho {
+    
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+.conteudo {
+    flex: 1 0 auto;
+}
+
+.logo-pagina-login {
+    width: 250px;
+    margin-left: +1150px
+    
+    
+    
+}
+.form-login {
+    font-size: 20px;
+    
+}
+.input-login-usuario {
+    padding: 5px 50px;
+    
+}
+.botao-login-entrar {
+    background-color: black;
+    padding: 2px 40px;   
+}
+.botao-login-entrar:hover {
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.botao-login-criar-conta {
+    background-color: black;
+    padding: 2px 35px;
+    
+}
+.botao-login-criar-conta:hover{
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.rodape {
+    flex-shrink: 0;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+
+
+
+.politica-de-privacidade {
+    width: 40px; 
+    height: 40px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    display: inline-flex;
+    margin-left: +290px;
+    
+}
+.termos-de-condicoes {
+    color: white;
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: +1098px;
+    
+}
+    .copyright {
+        color: white;
+        font-size: 20px;
+        margin: 20px 0 0;
+        margin-left: -840px;
+    }
+    
+
