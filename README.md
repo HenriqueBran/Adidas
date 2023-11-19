@@ -19,3 +19,4 @@ Neste projeto também foi implementado outras duas páginas, sendo elas: Acessar
 
 https://github.com/HenriqueBran/Adidas/assets/114500097/d1f9c415-5649-48fc-9e4c-691f6b622633
 
+
